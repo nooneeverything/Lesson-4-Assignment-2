@@ -1,0 +1,22 @@
+aside {
+float: right;
+}
+
+figure {
+  position: relative;
+  right: 39.5px;
+}
+
+body {
+  font-family: sans-serif;
+
+}
+
+a {
+  color: #00BFFF;
+}
+
+p {
+  color: 	#383838;
+  font-size: 14px;
+}
